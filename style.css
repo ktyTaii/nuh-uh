@@ -1,0 +1,30 @@
+body {
+    background-color: azure;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 20px;
+    text-align: center;
+}
+
+header {
+    background-color: cadetblue;
+    color: rebeccapurple;
+    padding: 20px;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    background-color: darkslategray;
+    padding: 5;
+}
+
+nav a {
+    color: lightblue;
+text-decoration: none;
+}
+nav a:hover {
+    color: lightsteelblue;
+    text-decoration: underline;
+    cursor: crosshair;
+}
