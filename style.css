@@ -2,7 +2,7 @@ body {
     background-color: azure;
     color: black;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    margin: 20px;
+    margin: 0;
     text-align: center;
 }
 
@@ -21,10 +21,24 @@ nav {
 
 nav a {
     color: lightblue;
-text-decoration: none;
+    text-decoration: none;
 }
+
 nav a:hover {
     color: lightsteelblue;
     text-decoration: underline;
     cursor: crosshair;
+}
+
+section {
+    margin: 20px 0;
+}
+
+footer {
+    background-color: cadetblue;
+    color: rebeccapurple;
+    position: fixed;
+    padding: 10px;
+    bottom: 0;
+    width: 100%;
 }
