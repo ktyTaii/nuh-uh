@@ -16,8 +16,7 @@ input, textarea {
 
 button{
     padding: 8px;
-    background-color: aqua;
-    color: blue;
+    color: rgb(40, 63, 78);
     border: none;
     cursor: pointer;
 }
