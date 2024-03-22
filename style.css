@@ -20,12 +20,12 @@ nav {
 }
 
 nav a {
-    color: rgb(47, 83, 95);
+    color: rgb(0, 0, 0);
     text-decoration: none;
 }
 
 nav a:hover {
-    color: rgb(37, 47, 58);
+    color: rgb(134, 171, 211);
     text-decoration: underline;
     cursor: pointer;
 }
